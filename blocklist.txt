@@ -1,1 +1,3 @@
 securepubads.g.doubleclick.net
+sync.adkernel.com
+tpsc-ue1.doubleverify.com
