@@ -1,3 +1,7 @@
 securepubads.g.doubleclick.net
 sync.adkernel.com
 tpsc-ue1.doubleverify.com
+mediavisor.doubleclick.net
+afs.goooglesyndication.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
